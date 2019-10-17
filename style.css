@@ -2,15 +2,17 @@
   background-image: url(https://image.freepik.com/free-photo/_1962-989.jpg);
   background-attachment: fixed;
   background-size: cover;
+  font-family: 'Noto Sans', sans-serif;
 }
 .header {
   text-align: center;
-  font-family: Trattatello; 
+  /*font-family: Trattatello;*/
+  font-family: 'Arimo', sans-serif;
 }
 .header__title {
-  font-size: 50px;
+  font-size: 45px;
   text-transform: uppercase;
-  text-shadow: 3px 3px 7px purple;
+  text-shadow: 3px 3px 5px purple;
 }
 .navigation {
   width: 100%;
@@ -25,7 +27,7 @@
   background: #eee;
   outline-offset: 3px;
   color: black;
-  font-size: 25px;
+  font-size: 20px;
   padding: 4px;
   text-decoration: none;
 }
@@ -37,7 +39,7 @@
 }
 .article__title {
   text-align: center;
-  font-family: monospace;
+  font-family: 'Arimo', sans-serif;
   font-size: 30px;
 }
 .article__text {
