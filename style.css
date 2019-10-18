@@ -2,11 +2,11 @@
   background-image: url(https://image.freepik.com/free-photo/_1962-989.jpg);
   background-attachment: fixed;
   background-size: cover;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 .header {
   text-align: center;
-  font-family: 'Arimo', sans-serif;
+  font-family: 'Noto Serif', serif;
 }
 .header__title {
   font-size: 45px;
@@ -38,7 +38,7 @@
 }
 .article__title {
   text-align: center;
-  font-family: 'Arimo', sans-serif;
+  font-family: 'Noto Serif', serif;
   font-size: 30px;
 }
 .article__text {
