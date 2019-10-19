@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Rubik&display=swap&subset=cyrillic');
+
+.body {
+  background-image: url(https://image.freepik.com/free-photo/_1962-989.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+.header {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+.header__title {
+  font-size: 45px;
+  text-transform: uppercase;
+  text-shadow: 3px 3px 5px purple;
+}
+.navigation {
+  width: 100%;
+  max-width: 950px;
+  padding: 0 30px;
+}
+.navigation__link {
+  display: inline;
+}
+.link-box {
+  border: 2px solid black;
+  background: #eee;
+  outline-offset: 3px;
+  color: black;
+  font-size: 20px;
+  padding: 4px;
+  text-decoration: none;
+}
+.article {
+  background: #eee;
+  width: 520px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.article__title {
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+  font-size: 30px;
+}
+.article__text {
+  font-size: 18px;
+  text-align: justify;
+  text-indent: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 490px;
+}
+.article__img {
+  padding: 0 10px;
+  width: 500px;
+  height: 500px;
+}
+.footer {
+  text-align: center;
+}
